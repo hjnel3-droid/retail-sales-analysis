@@ -1,13 +1,8 @@
-# retail-sales-analysis
-Python-based retail sales analysis of 1M+ transactions using Pandas and Matplotlib
-
 # Retail Sales Analysis — Online Retail II
 
 ## Overview
-A comprehensive analysis of over 1 million retail transactions from a 
-UK-based online retailer covering December 2009 to December 2011. 
-This project explores product performance, seasonal trends, customer 
-markets and operational patterns to uncover actionable business insights.
+A comprehensive analysis of over 1 million retail transactions from a UK-based online retailer covering December 2009 to December 2011. 
+This project explores product performance, seasonal trends, customer markets and operational patterns to uncover actionable business insights.
 
 ## Key Findings
 - **UK dominates revenue** accounting for the majority of total sales, with Ireland and Netherlands completing the top 3 markets
