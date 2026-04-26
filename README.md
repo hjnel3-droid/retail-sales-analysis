@@ -90,5 +90,5 @@ The analysis is structured as a single Jupyter Notebook with the following secti
 ## Author
 
 **Jordan Nel** — Customer Relations & Insights Specialist | Python | SQL | Power BI  
-[LinkedIn](www.linkedin.com/in/jordan-nel3) · [GitHub](https://github.com/InsightswithJ)
+[LinkedIn](https://www.linkedin.com/in/jordan-nel3) · [GitHub](https://github.com/InsightswithJ)
 
